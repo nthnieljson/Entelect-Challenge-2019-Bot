@@ -9,7 +9,11 @@ Repository ini dibuat untuk memenuhi penyelesaian tugas besar 1 kuliah IF2211 St
 3.Hizkia Raditya Pratama Roosadi 13519087<br/>
 
 Repository ini mengandung implementasi algoritma greedy untuk bot permainan Worms dalam bahasa Java.
-Algoritma greedy yang dijalankan menggunakan prinsip "selalu bergerak ke arah musuh terdekat".
+Algoritma greedy yang dijalankan menggunakan prinsip "selalu bergerak ke arah musuh terdekat". Setelah
+bergerak dekat, algoritma akan memilih antara 3 serangan jika mungkin dilakukan, yaitu bananabomb,shoot, dan snowball
+serangan yang valid dan memungkinkan untuk melakukan damage paling besar akan dipilih.<br/>
+
+
 
 
 
