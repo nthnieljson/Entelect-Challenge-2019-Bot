@@ -14,8 +14,8 @@ bergerak dekat, algoritma akan memilih antara 3 serangan jika mungkin dilakukan,
 serangan yang valid dan memungkinkan untuk melakukan damage paling besar akan dipilih.<br/>
 
 
-### Requirements
-# Java starter bot
+# Requirements
+## Java starter bot
 
 ## Environment requirements
 
