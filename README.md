@@ -14,7 +14,7 @@ bergerak dekat, algoritma akan memilih antara 3 serangan jika mungkin dilakukan,
 serangan yang valid dan memungkinkan untuk melakukan damage paling besar akan dipilih.<br/>
 
 
-###Requirements
+### Requirements
 Java starter bot
 Environment requirements
 Install the Java SE Development Kit 8 for your environment here: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
