@@ -11,6 +11,7 @@ import java.lang.Math;
 
 public class Bot {
 
+    private Random random;
     private GameState gameState;
     private Opponent opponent;
     private MyWorm currentWorm;
