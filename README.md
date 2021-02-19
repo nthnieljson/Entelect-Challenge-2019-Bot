@@ -3,9 +3,10 @@
 Repository ini dibuat untuk memenuhi penyelesaian tugas besar 1 kuliah IF2211 Strategi Algoritma ITB
 
 Kelompok: FansClubBillyJuliusPart2
-Anggota:  1.Nathaniel Jason 13519108
-          2.James Chandra 13519078
-          3.Hizkia Raditya Pratama Roosadi 13519087
+Anggota:  
+1.Nathaniel Jason 13519108
+2.James Chandra 13519078
+3.Hizkia Raditya Pratama Roosadi 13519087
 
 Repository ini mengandung implementasi algoritma greedy untuk bot permainan Worms dalam bahasa Java.
 Algoritma greedy yang dijalankan menggunakan prinsip "selalu bergerak ke arah musuh terdekat".
