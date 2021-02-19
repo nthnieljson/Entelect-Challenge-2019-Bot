@@ -1,0 +1,9 @@
+If possible to attack  
+    then pick the best attack 
+        best attack = attack with the most total damage
+        check for weapon, bananabomb and snowball
+        
+    
+if not
+    then pursuit the enemy
+
